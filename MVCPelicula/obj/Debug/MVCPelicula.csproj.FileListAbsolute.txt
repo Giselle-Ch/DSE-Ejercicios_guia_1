@@ -1,0 +1,174 @@
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\MVCPelicula.dll.config
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\MVCPelicula.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\MVCPelicula.pdb
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\csc.exe
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\csc.exe.config
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\csc.rsp
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\csi.exe
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\csi.exe.config
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\csi.rsp
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.AppContext.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Collections.Immutable.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Console.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.IO.Compression.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.IO.FileSystem.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.IO.Pipes.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Reflection.Metadata.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Security.AccessControl.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Security.Claims.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Security.Principal.Windows.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.ValueTuple.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Xml.XPath.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\vbc.exe
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\vbc.exe.config
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\vbc.rsp
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\VBCSCompiler.exe
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\VBCSCompiler.exe.config
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\Antlr3.Runtime.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\Microsoft.Web.Infrastructure.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\Newtonsoft.Json.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.Helpers.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.Mvc.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.Optimization.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.Razor.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.WebPages.Deployment.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.WebPages.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.WebPages.Razor.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\WebGrease.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.Helpers.xml
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.Mvc.xml
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.Optimization.xml
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.Razor.xml
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.WebPages.xml
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.WebPages.Deployment.xml
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.WebPages.Razor.xml
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\Newtonsoft.Json.xml
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\Antlr3.Runtime.pdb
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\es\System.Web.Helpers.resources.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\es\System.Web.Mvc.resources.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\es\System.Web.Optimization.resources.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\es\System.Web.Razor.resources.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\es\System.Web.WebPages.resources.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\obj\Debug\MVCPelicula.csprojAssemblyReference.cache
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\obj\Debug\MVCPelicula.csproj.CoreCompileInputs.cache
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\obj\Debug\MVCPelicula.csproj.CopyComplete
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\obj\Debug\MVCPelicula.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\obj\Debug\MVCPelicula.pdb
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\EntityFramework.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\EntityFramework.SqlServer.dll
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\EntityFramework.xml
+E:\DSE\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\MVCPelicula.dll.config
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\MVCPelicula.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\MVCPelicula.pdb
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\csc.exe
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\csc.exe.config
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\csc.rsp
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\csi.exe
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\csi.exe.config
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\csi.rsp
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Console.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\vbc.exe
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\vbc.exe.config
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\vbc.rsp
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\Antlr3.Runtime.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\EntityFramework.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.Helpers.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.Mvc.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.Optimization.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.Razor.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.WebPages.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\WebGrease.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\EntityFramework.xml
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.Helpers.xml
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.Mvc.xml
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.Optimization.xml
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.Razor.xml
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.WebPages.xml
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\Newtonsoft.Json.xml
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\es\System.Web.Helpers.resources.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\es\System.Web.Mvc.resources.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\es\System.Web.Optimization.resources.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\es\System.Web.Razor.resources.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\es\System.Web.WebPages.resources.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\obj\Debug\MVCPelicula.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\obj\Debug\MVCPelicula.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\obj\Debug\MVCPelicula.csproj.CopyComplete
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\obj\Debug\MVCPelicula.dll
+C:\Users\HP\Downloads\xiii\Desarrollo de software empresarial\lab\g1-MVCPelicula\MVCPelicula\MVCPelicula\obj\Debug\MVCPelicula.pdb
